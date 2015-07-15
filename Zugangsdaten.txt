@@ -1,7 +1,0 @@
-uberspace.de
-
-foodapp
-
-GruppeMitDerGeilenApp
-
-foodapp.vega.uberspace.de
